@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jonat/Documents/UdeA/CompuMovil/constraint-layout/constraint-layout-start/app/src/main/res/layout/activity_main_autoconnect.xml" value="0.34791666666666665" />
+        <entry key="..\:/Users/jonat/Documents/UdeA/CompuMovil/constraint-layout/constraint-layout-start/app/src/main/res/layout/activity_main_barriers.xml" value="0.33" />
+        <entry key="..\:/Users/jonat/Documents/UdeA/CompuMovil/constraint-layout/constraint-layout-start/app/src/main/res/layout/activity_main_chains.xml" value="0.33" />
+        <entry key="..\:/Users/jonat/Documents/UdeA/CompuMovil/constraint-layout/constraint-layout-start/app/src/main/res/layout/activity_main_done.xml" value="0.33" />
+        <entry key="..\:/Users/jonat/Documents/UdeA/CompuMovil/constraint-layout/constraint-layout-start/app/src/main/res/layout/activity_main_inference.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/jonat/Documents/UdeA/CompuMovil/constraint-layout/constraint-layout-start/app/src/main/res/layout/activity_main_ratio.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/jonat/Documents/UdeA/CompuMovil/constraint-layout/constraint-layout-start/app/src/main/res/layout/activity_main_start.xml" value="0.67" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/constraint-layout-start" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="Android API 31 Platform" project-jdk-type="Android SDK" />
+</project>
